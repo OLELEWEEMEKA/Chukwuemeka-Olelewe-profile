@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    
+}
+header{
+    background-color: blueviolet;
+    
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+    padding-bottom: 70px;
+    position: fixed;
+    width: 100%;
+    
+}
+header h1{
+    font-weight: bold;
+    font-size: 50px;
+    color: aliceblue;
+    
+}
+
+header h3{
+    font-weight: 900x;
+    font-size: 30px;
+    color: aliceblue;
+}
+nav{
+    background-color: green;
+    text-align: center;
+    padding: 30px;
+    margin-top: 200px;
+    padding-top: 20px;
+    width: 96.5%;
+    position: fixed;
+    width: 100%;
+}
+nav ul{
+    list-style-type: none;
+    padding-left: 115px;
+}
+nav ul li{
+    display: inline;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+nav ul li a{
+    color:aliceblue;
+    font-weight: bold;
+    font-size: 25px;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    background-color: aquamarine;
+    color: black;
+    border-radius: 10px;
+}
+body{
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 10px;
+    
+    
+}
+article h1{
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 30px;
+    padding-bottom: 20px;
+    text-decoration-color: blue;
+    text-decoration: double;
+}
+p{
+    font-size: 20px;
+    margin-left: 1px;
+}
+button{
+    background-color: rgb(0, 128, 0);
+    color: aliceblue;
+    padding: 25px 25px 25px 25px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 5px;
+}
+article li{
+   font-size: 20px;
+}
+footer{
+    background-color: green;
+    text-align: center;
+    padding: 15px 15px;
+    color: aliceblue;
+}
+hr{
+    background-color: blue;
+    height: 2px;
+}
+.pad{
+    padding-top: 300px;
+}
